@@ -1,11 +1,11 @@
-# DataProcessingandStorage
+# Data Processing and Storage
 Madeleine Glaum 
 
 **How to Run: **
 - Clone the project from github
-- Run the project in CLion
+- Run the project in CLion, no dependencies should be needed 
 - For the sake of testing, I have printed any exceptions to the console instead of having them interrupt the run of the code.
-- All outputs of the code are printed to the console
+- All outputs/statuses of the code are printed to the console
 - Used Fig 2's test cases and outputs for testing
 
 **Assignment Modification** 
