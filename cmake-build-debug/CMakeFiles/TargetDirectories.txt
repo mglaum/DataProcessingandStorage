@@ -1,0 +1,3 @@
+/Users/maddieglaum/CLionProjects/DataProcessingandStorage/cmake-build-debug/CMakeFiles/DataProcessingandStorage.dir
+/Users/maddieglaum/CLionProjects/DataProcessingandStorage/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maddieglaum/CLionProjects/DataProcessingandStorage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
